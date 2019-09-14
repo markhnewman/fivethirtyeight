@@ -1,2 +1,3 @@
 # fivethirtyeight
-fivethirtyeight riddler solutions
+
+Respository for my fivethirtyeight riddler solutions
